@@ -1,0 +1,1 @@
+logs out boiler data from the pi zero camera + current weather every minute 
